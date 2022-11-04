@@ -29,8 +29,7 @@ on:
 
 jobs:
   publish:
-    runs-on: self-hosted
-    container: docker:latest
+    runs-on: ubuntu-latest
 
     permissions:
       contents: read
