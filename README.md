@@ -1,3 +1,6 @@
+> # Archive notice
+> We don't need this any longer and therefore archived it. It's still working as intended though.
+
 # PrioBike Mosquitto Bridge
 
 A custom Mosquitto broker that enforces the retain flag on all incoming messages.
